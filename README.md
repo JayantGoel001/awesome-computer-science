@@ -34,6 +34,24 @@
 </details>
 
 <details>
+<summary>Ansible </summary>
+<br>Category/Type - <br>IT Configuration Management, Deployment & Orchestration tool<br>
+<br>Official Documentation - <br>https://docs.ansible.com<br>
+<br>Best YouTube creators - <br>https://www.youtube.com/user/Simplilearn <br>https://www.youtube.com/channel/UCdngmbVKX1Tgre699-XLlUA <br>
+https://www.youtube.com/playlist?list=PL2qzCKTbjutIyQAe3GglWISLnLTQLGm7e <br> https://www.youtube.com/playlist?list=PL8cE5Nxf6M6YUaKyuon-AWRDNr31ANuo2 <br>
+<br>Useful Websites - <br> https://www.tutorialspoint.com/ansible/index.htm <br> https://www.guru99.com/ansible-tutorial.html <br>
+https://www.javatpoint.com/ansible <br> https://www.redhat.com/en/topics/automation/learning-ansible-tutorial<br>
+<br>Dedicated Github page - <br> https://github.com/ansible <br> https://github.com/ansible/ansible <br>
+<br>Best Courses - <br> https://www.udemy.com/course/learn-ansible/ <br> https://www.udemy.com/course/mastering-ansible/ <br>
+https://www.udemy.com/course/diveintoansible/ <br> https://www.udemy.com/course/automation-with-ansible/ <br>
+<br>Other Tips / Hacks - <br>https://blog.ippon.tech/ansible-tips-and-tricks/ <br> https://docs.ansible.com/ansible/latest/user_guide/playbooks_best_practices.html <br> https://medium.com/devops-dudes/tips-and-tricks-for-mastering-ansible-929c77fd1971 <br> https://learn.redhat.com/t5/Automation-Management-Ansible/Ansible-Tips-and-Tricks/td-p/148<br> <br>
+<a href="https://cdn.educba.com/academy/wp-content/uploads/2019/10/ansible-architecture.png">
+  <img align="center" src="https://cdn.educba.com/academy/wp-content/uploads/2019/10/ansible-architecture.png" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
+
+<details>
 <summary>Apache OpenJPA </summary>
 <br>Category/Type - <br>object-relational mapping (ORM)<br>
 <br>Official Documentation - <br>http://openjpa.apache.org/documentation.html<br>
@@ -65,6 +83,25 @@
 <br>Dedicated Github page -
 <br>Best Courses -
 <br>Other Tips / Hacks - <br><br>
+</details>
+
+<details>
+<summary>Blender </summary>
+<br>Category/Type - <br>3D modeling and animation program<br>
+<br>Official Documentation - <br>https://docs.blender.org/manual/en/latest/<br>
+<br>Best YouTube creators - <br> https://www.youtube.com/user/AndrewPPrice <br> https://www.youtube.com/user/BlenderInstitute <br>
+https://www.youtube.com/playlist?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6 <br> https://www.youtube.com/playlist?list=PLn3ukorJv4vvv3ZpWJYvV5Tmvo7ISO-NN <br>
+<br>Useful Websites - <br> https://www.3dblendered.com/learning-blender/introduction-to-blender-for-absolute-beginners-a-great-blender-tutorial/ <br> 
+https://www.blender.org/support/tutorials/ <br>
+<br>Dedicated Github page - <br> https://github.com/blender/blender <br> https://github.com/blender <br>
+<br>Best Courses - <br> https://www.udemy.com/course/blendertutorial/ <br> https://www.udemy.com/course/blender-environments/ <br>
+https://www.udemy.com/course/blender-3d-sculpting-course/ <br>
+<br>Other Tips / Hacks - <br> https://vagon.io/blog/blender-tips-tricks/ <br> https://www.creativebloq.com/13-blender-tips-pros-7113110 <br>
+https://3dtotal.com/tutorials/t/10-blender-tricks-you-might-not-know-about <br> https://www.blenderguru.com/articles/how-i-learned-blender-and-5-tips-for-you <br> <br>
+<a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5p85jNnxdlbr0zyFu1KCgwK_Idk-ilss4_g&usqp=CAU">
+  <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5p85jNnxdlbr0zyFu1KCgwK_Idk-ilss4_g&usqp=CAU" width="500" height="500"/>
+</a>
+<br><br><br>
 </details>
 
 <details>
@@ -406,14 +443,22 @@ https://www.geeksforgeeks.org/interesting-and-cool-tricks-in-java/<br>
 
 <details>
 <summary>Jenkins </summary>
-<br>Category/Type -
-<br>Official Documentation -
-<br>Best YouTube creators -
-<br>Useful Websites -
-<br>Dedicated Github page -
-<br>Best Courses -
-<br>Other Tips / Hacks - <br><br>
+<br>Category/Type - <br>automation tool<br>
+<br>Official Documentation - <br>https://www.jenkins.io/doc/<br>
+<br>Best YouTube creators - <br>https://www.youtube.com/watch?v=FX322RVNGj4<br>https://www.youtube.com/watch?v=p7-U1_E_j3w<br>https://www.youtube.com/watch?v=woMAXn4e8NA<br>https://www.youtube.com/watch?v=7KCS70sCoK0<br>
+<br>Useful Websites - <br>https://www.tutorialspoint.com/jenkins/index.htm<br>https://www.jenkins.io/doc/tutorials/<br>https://www.guru99.com/jenkins-tutorial.html<br>https://www.javatpoint.com/jenkins<br>
+<br>Dedicated Github page - <br>https://github.com/jenkinsci/jenkins<br>https://github.com/jenkinsci<<br>
+<br>Best Courses - <br>https://www.udemy.com/course/jenkins-from-zero-to-hero/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-C0PwRpUtAp2tASFkX0SH9A&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads<br>
+https://www.udemy.com/course/jenkins-continuous-integration-bootcamp/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-99v3NUD9t_vUNp5geCKfTQ&utm_medium=udemyads&utm_source=aff-campaign<br>
+https://www.coursera.org/learn/uva-darden-continous-delivery-devops?ranMID=40328&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-nvgpKpVUSsfLIHgBPXcHIw&siteID=JVFxdTr9V80-nvgpKpVUSsfLIHgBPXcHIw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=JVFxdTr9V80<br>
+https://www.udemy.com/course/jenkins-learn-continuous-integration/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-OG3YwtLN1.DRfKVGFejZfw&utm_medium=udemyads&utm_source=aff-campaign<br>
+<br>Other Tips / Hacks - <br>https://wildcardcorp.com/blogs/jenkins-tips-tricks<br>https://medium.com/edureka/jenkins-cheat-sheet-e0f7e25558a3<br>https://www.devopsu.org/blog/jenkins-tips-and-tricks/<br>
+<a href="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rundeck.com%2Fjenkins&psig=AOvVaw3qSpVvHuCdG4TWcD9via2Q&ust=1615569758065000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJDyg7_gqO8CFQAAAAAdAAAAABAD">
+  <img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rundeck.com%2Fjenkins&psig=AOvVaw3qSpVvHuCdG4TWcD9via2Q&ust=1615569758065000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJDyg7_gqO8CFQAAAAAdAAAAABAD" width="500" height="500"/>
+</a>
+<br><br><br>
 </details>
+
 
 <details>
 <summary>Kafka </summary>
@@ -480,6 +525,21 @@ https://twitter.com/kotlin?lang=en<br>
 </details>
 
 <details>
+<summary>Kubernetes </summary>
+<br>Category/Type - <br> container-orchestration system<br>
+<br>Official Documentation - <br> https://kubernetes.io/docs/home/ <br>
+<br>Best YouTube creators - <br> https://www.youtube.com/watch?v=X48VuDVv0do <br>https://www.youtube.com/watch?v=F-p_7XaEC84
+<br> https://www.youtube.com/watch?v=QJ4fODH6DXI <br> https://www.youtube.com/watch?v=R-3dfURb2hA <br>
+<br>Useful Websites - <br> https://www.redhat.com/en/topics/containers/what-is-kubernetes <br> https://cloud.google.com/learn/what-is-kubernetes <br> https://kubernetes.io/docs/tutorials/kubernetes-basics/ <br> https://www.tutorialspoint.com/kubernetes/index.htm <br>
+<br>Dedicated Github page - <br> https://github.com/kubernetes/kubernetes <br>
+<br>Best Courses - <br> https://www.coursera.org/specializations/architecting-google-kubernetes-engine <br> https://www.coursera.org/learn/ibm-containers-docker-kubernetes-openshift <br> https://www.coursera.org/learn/containerized-apps-on-aws <br>
+https://www.coursera.org/projects/container-orchestration-kubernetes <br>
+<br>Other Tips / Hacks - <br>  https://kubernetes.io/blog/2018/07/18/11-ways-not-to-get-hacked/ <br>
+https://blog.neuvector.com/article/hack-kubernetes-container <br>
+<br><br>
+</details>
+
+<details>
 <summary>Logstash </summary>
 <br>Category/Type -
 <br>Official Documentation -
@@ -488,6 +548,48 @@ https://twitter.com/kotlin?lang=en<br>
 <br>Dedicated Github page -
 <br>Best Courses -
 <br>Other Tips / Hacks - <br><br>
+</details>
+
+<details>
+<summary>Matplotlib</summary>
+<br>
+Category/Type - <br>
+Python Library<br>
+<br>
+Official Documentation - <br>
+https://matplotlib.org/stable/contents.html<br>
+<br>
+Best YouTube creators - <br>
+https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_<br>
+https://www.youtube.com/watch?v=VFsRLjSc8GA<br>
+https://www.youtube.com/watch?v=3Xc3CA655Y4<br>
+https://www.youtube.com/playlist?list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF<br>
+https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB
+<br>
+Useful Websites -
+<br>
+https://www.w3schools.com/python/matplotlib_pyaplot.asp<br>
+https://www.tutorialspoint.com/matplotlib/index.htm<br>
+https://www.geeksforgeeks.org/python-introduction-matplotlib/<br>
+https://realpython.com/python-matplotlib-guide/
+<br>
+Dedicated Github page - <br>
+https://github.com/matplotlib/matplotlib<br>
+https://github.com/mwaskom/seaborn<br>
+https://github.com/rougier/matplotlib-cheatsheet<br>
+https://github.com/garrettj403/SciencePlots<br>
+<br>
+Best Courses - <br>
+https://hackr.io/blog/best-python-courses<br>
+https://www.coursera.org/projects/plots-creation-using-matplotlib-python<br>
+https://www.freecodecamp.org/news/matplotlib-course-learn-python-data-visualization/<br>
+<br>
+Other Tips / Hacks - <br>
+https://www.analyticsvidhya.com/blog/2020/05/10-matplotlib-tricks-data-visualization-python/<br>
+https://towardsdatascience.com/simple-ways-to-improve-your-matplotlib-b64eebccfd5<br>
+https://pythonmatplotlibtips.blogspot.com/<br>
+https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Matplotlib_Cheat_Sheet.pdf
+<br><br>
 </details>
 
 <details>
@@ -502,6 +604,25 @@ https://twitter.com/kotlin?lang=en<br>
 </details>
 
 <details>
+<summary>Maya </summary>
+<br>Category/Type - <br>3D modeling and animation program<br>
+<br>Official Documentation - <br>https://knowledge.autodesk.com/support/maya/getting-started/caas/simplecontent/content/maya-documentation.html<br>
+<br>Best YouTube creators - <br> https://www.youtube.com/user/Autodesk <br> https://www.youtube.com/user/MayaHowTos 
+<br> https://www.youtube.com/playlist?list=PLD8E5717592CF5C26 <br> https://www.youtube.com/playlist?list=PLsPHRLf6UN4k0_AfrTzLmK4iDV9J97-qR <br> https://www.youtube.com/c/InspirationTuts/featured <br> 
+https://www.youtube.com/playlist?list=PL_wyEvNVo1UQbNt9tKmg4AvhwpYKcQnML <br> https://www.youtube.com/playlist?list=PLhzdYQZ3iGsJqYhL-VSJjmWaL9pU0K5Im <br> https://www.youtube.com/playlist?list=PLhzdYQZ3iGsJqYhL-VSJjmWaL9pU0K5Im <br>
+<br>Useful Websites - <br> https://www.bgsu.edu/content/dam/BGSU/libraries/documents/collab-lab/Maya-Tutorial.pdf <br> https://designmodo.com/maya-tutorials/ <br>
+<br>Dedicated Github page - <br> https://github.com/ADN-DevTech/Maya-Training-Material <br> https://github.com/Autodesk/maya-usd <br>
+<br>Best Courses - <br> https://www.udemy.com/course/autodesk-maya-3d-animation-course/ <br> https://www.udemy.com/course/learn-maya-for-beginners/ <br>
+https://www.udemy.com/course/complete-maya-fluids-bootcamp/ <br> https://www.udemy.com/course/maya-for-beginners-complete-3d-animation-masterclass/ <br>
+<br>Other Tips / Hacks - <br> https://www.creativebloq.com/advice/20-tips-to-master-maya <br> https://area.autodesk.com/tutorials/15-must-know-tips-tricks-in-maya-2020/ <br>
+ https://fullrotation.com/maya-tips-for-beginners/ <br> https://academy.archistar.ai/the-top-18-tips-for-getting-more-from-maya <br> <br>
+<a href="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPejuFWVvHT5j0iMatE8cdIcXFbKlJHLSEZg&usqp=CAU">
+  <img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPejuFWVvHT5j0iMatE8cdIcXFbKlJHLSEZg&usqp=CAU" width="500" height="500"/>
+</a>
+<br><br><br>
+</details>
+
+<details>
 <summary>Nodejs </summary>
 <br>Category/Type -
 <br>Official Documentation -
@@ -510,6 +631,38 @@ https://twitter.com/kotlin?lang=en<br>
 <br>Dedicated Github page -
 <br>Best Courses -
 <br>Other Tips / Hacks - <br><br>
+</details>
+
+
+<details>
+<summary>NLTK </summary>
+<br>Category/Type - <br>Python Library<br>
+<br>Official Documentation - <br>https://www.nltk.org/<br>
+<br>Best YouTube creators - <br>https://www.youtube.com/playlist?list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL <br>https://www.youtube.com/watch?v=WYge0KZBhe0 <br>https://www.youtube.com/watch?v=X2vAabgKiuM<br>https://www.youtube.com/watch?v=U8m5ug9Q54M<br>https://www.youtube.com/watch?v=bgFKoaKX3ec<br>https://www.youtube.com/watch?v=YB7XXDXIusg
+<br>Useful Websites - <br>https://www.guru99.com/nltk-tutorial.html<br>https://www.nltk.org/book/ch06.html<br>https://www.nltk.org/install.html<br>https://data-flair.training/blogs/nltk-python-tutorial/<br>
+<br>Dedicated Github page - <br>https://github.com/nltk/nltk <br>https://github.com/vinta/awesome-python#natural-language-processing<br>https://github.com/hb20007/hands-on-nltk-tutorial<br>https://github.com/csurfer/rake-nltk/commits/master<br>
+<br>Best Courses - <br>https://www.udemy.com/course/natural-language-processing-nlp-for-beginners-using-nltk-in-python/<br>https://www.datacamp.com/courses/natural-language-processing-fundamentals-in-python<br>https://www.itexperttraining.com/core/course/nltk-with-python-3-for-natural-language-processing/<br>https://www.udemy.com/course/complete-natural-language-processing-nlp-with-spacy-nltk/<br>
+<br>Other Tips / Hacks - <br>https://awesomeopensource.com/projects/nltk<br>https://opensource.com/article/20/8/nlp-python-nltk<br>https://medium.com/@ritidass29/the-essential-guide-to-how-nlp-works-4d3bb23faf76<br>https://www.kaggle.com/learn-forum/171334<br>https://cheatography.com/murenei/cheat-sheets/natural-language-processing-with-python-and-nltk/<br><br>
+
+</details>
+
+<details>
+<summary>Puppet  </summary>
+<br>Category/Type - <br>IT automation<br>
+<br>Official Documentation - <br>https://puppet.com/docs/puppet/5.5/puppet_index.html<br>
+<br>Best YouTube creators - <br>https://www.youtube.com/watch?v=PL_J5Gj3GAQ <br> https://www.youtube.com/watch?v=QFcqvBk1gNA <br>
+https://www.youtube.com/watch?v=kHD4KQKKP5Y <br> https://www.youtube.com/watch?v=PL_J5Gj3GAQ <br>
+<br>Useful Websites - <br> https://www.edureka.co/blog/what-is-puppet/ <br> https://www.guru99.com/puppet-tutorial.html <br>
+https://www.tutorialspoint.com/puppet/index.htm <br>
+<br>Dedicated Github page - <br> https://github.com/puppetlabs/puppet <br> https://github.com/puppeteer/puppeteer <br>
+https://github.com/puppetlabs <br>
+<br>Best Courses - <br> https://puppet.com/learning-training/ <br> https://www.udemy.com/course/learning-puppet/ <br>
+https://www.udemy.com/course/learn-puppet/ <br> https://www.udemy.com/course/learning-puppet/ <br>
+<br>Other Tips / Hacks - <br> https://puppet.com/blog/category/tips-how-to/ <br> https://ospassist.puppet.com/hc/en-us/articles/360043112494-Puppet-tips-and-tricks <br> https://blog.kumina.nl/tag/puppet-tips-and-tricks/ <br> <br>
+<a href="https://www.replicated.com/wp-content/uploads/2020/10/Puppet-Replicated-Diagram.jpg">
+  <img align="center" src="https://www.replicated.com/wp-content/uploads/2020/10/Puppet-Replicated-Diagram.jpg" width="500" height="500"/>
+</a>
+<br><br><br>
 </details>
 
 <details>

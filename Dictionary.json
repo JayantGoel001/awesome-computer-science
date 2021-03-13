@@ -24,6 +24,31 @@
 
 	},
 
+	{	"Title" : "Ansible",
+		"Tag": "IT Configuration Management, Deployment & Orchestration tool",
+		"Documentation" : "https://docs.ansible.com",
+		"YT1 " : "https://www.youtube.com/user/Simplilearn",
+		"YT2 " : "https://www.youtube.com/channel/UCdngmbVKX1Tgre699-XLlUA",
+		"YT3 " : "https://www.youtube.com/playlist?list=PL2qzCKTbjutIyQAe3GglWISLnLTQLGm7e",
+		"YT4 " : "https://www.youtube.com/playlist?list=PL8cE5Nxf6M6YUaKyuon-AWRDNr31ANuo2",
+		"Website1": "https://www.tutorialspoint.com/ansible/index.htm",
+		"Website2": "https://www.guru99.com/ansible-tutorial.html",
+		"Website3": "https://www.javatpoint.com/ansible",
+		"Website4": "https://www.redhat.com/en/topics/automation/learning-ansible-tutorial",
+		"Dedicated GH page1" : "https://github.com/ansible",
+		"Dedicated GH page2" : "https://github.com/ansible/ansible",
+		"Course1" : "https://www.udemy.com/course/learn-ansible/",
+		"Course2" : "https://www.udemy.com/course/mastering-ansible/",
+		"Course3" : "https://www.udemy.com/course/diveintoansible/",
+		"Course4" : "https://www.udemy.com/course/automation-with-ansible/",
+		"Tips1" : "https://blog.ippon.tech/ansible-tips-and-tricks/",
+		"Tips2" : "https://docs.ansible.com/ansible/latest/user_guide/playbooks_best_practices.html",
+		"Tips3" : "https://medium.com/devops-dudes/tips-and-tricks-for-mastering-ansible-929c77fd1971",
+		"Tips4" : "https://learn.redhat.com/t5/Automation-Management-Ansible/Ansible-Tips-and-Tricks/td-p/148",
+		"Image1":"https://cdn.educba.com/academy/wp-content/uploads/2019/10/ansible-architecture.png" 
+	
+		},
+
 	{
 		"Title" : "Apache OpenJPA",
 		"Tag": "object-relational mapping (ORM)",
@@ -39,6 +64,28 @@
 		"Course3" : "https://www.udemy.com/course/hibernate-and-java-persistence-api-jpa-fundamentals/",
 		"Tips1" : "https://www.adam-bien.com/roller/abien/entry/if_you_like_to_build"
 		},
+
+	{	"Title" : "Blender",
+		"Tag": "3D modeling and animation program",
+		"Documentation" : "https://docs.blender.org/manual/en/latest/",
+		"YT1 " : "https://www.youtube.com/user/AndrewPPrice",
+		"YT2 " : "https://www.youtube.com/user/BlenderInstitute",
+		"YT3 " : "https://www.youtube.com/playlist?list=PLa1F2ddGya_-UvuAqHAksYnB0qL9yWDO6",
+		"YT4 " : "https://www.youtube.com/playlist?list=PLn3ukorJv4vvv3ZpWJYvV5Tmvo7ISO-NN",
+		"Website1": "https://www.3dblendered.com/learning-blender/introduction-to-blender-for-absolute-beginners-a-great-blender-tutorial/",
+		"Website2": "https://www.blender.org/support/tutorials/",
+		"Dedicated GH page1" : "https://github.com/blender/blender",
+		"Dedicated GH page2" : "https://github.com/blender",
+		"Course1" : "https://www.udemy.com/course/blendertutorial/",
+		"Course2" : "https://www.udemy.com/course/blender-environments/",
+		"Course3" : "https://www.udemy.com/course/blender-3d-sculpting-course/",
+		"Tips1" : "https://vagon.io/blog/blender-tips-tricks/",
+		"Tips2" : "https://www.creativebloq.com/13-blender-tips-pros-7113110",
+		"Tips3" : "https://3dtotal.com/tutorials/t/10-blender-tricks-you-might-not-know-about",
+		"Tips4" : "https://www.blenderguru.com/articles/how-i-learned-blender-and-5-tips-for-you",
+		"Image1": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5p85jNnxdlbr0zyFu1KCgwK_Idk-ilss4_g&usqp=CAU" 
+		
+			},
 
 	{
 	"Title" : "Bootstrap",
@@ -61,12 +108,6 @@
 	"Tips3" : "https://hackerthemes.com/bootstrap-cheatsheet/ "
 
 	},
-
-
-
-
-
-
 
 	{
 	"Title" : "C++",
@@ -262,7 +303,30 @@
 
 	},
 
+{
+	"Title" : "Jenkins",
+	"Tag": "automation tool",
+	"Documentation" : "https://www.jenkins.io/doc/",
+	"YT1 " : "https://www.youtube.com/watch?v=FX322RVNGj4",
+	"YT2 " : "https://www.youtube.com/watch?v=p7-U1_E_j3w",
+	"YT3 " : "https://www.youtube.com/watch?v=woMAXn4e8NA",
+    "YT4 " : "https://www.youtube.com/watch?v=7KCS70sCoK0",
+	"Website1": "https://www.tutorialspoint.com/jenkins/index.htm",
+	"Website2": "https://www.jenkins.io/doc/tutorials/",
+    "Website3": "https://www.guru99.com/jenkins-tutorial.html",
+	"Website4": "https://www.javatpoint.com/jenkins",
+	"Dedicated GH page1" : "https://github.com/jenkinsci/jenkins",
+	"Dedicated GH page2" : "https://github.com/jenkinsci",
+	"Course1" : "https://www.udemy.com/course/jenkins-from-zero-to-hero/?ranMID=39197&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-C0PwRpUtAp2tASFkX0SH9A&LSNPUBID=JVFxdTr9V80&utm_source=aff-campaign&utm_medium=udemyads",
+	"Course2" : "https://www.udemy.com/course/jenkins-continuous-integration-bootcamp/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-99v3NUD9t_vUNp5geCKfTQ&utm_medium=udemyads&utm_source=aff-campaign",
+	"Course3" : "https://www.coursera.org/learn/uva-darden-continous-delivery-devops?ranMID=40328&ranEAID=JVFxdTr9V80&ranSiteID=JVFxdTr9V80-nvgpKpVUSsfLIHgBPXcHIw&siteID=JVFxdTr9V80-nvgpKpVUSsfLIHgBPXcHIw&utm_content=10&utm_medium=partners&utm_source=linkshare&utm_campaign=JVFxdTr9V80",
+    "Course4" : "https://www.udemy.com/course/jenkins-learn-continuous-integration/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-OG3YwtLN1.DRfKVGFejZfw&utm_medium=udemyads&utm_source=aff-campaign",
+	"Tips1" : "https://wildcardcorp.com/blogs/jenkins-tips-tricks",
+	"Tips2" : "https://medium.com/edureka/jenkins-cheat-sheet-e0f7e25558a3",
+    "Tips3" : "https://www.devopsu.org/blog/jenkins-tips-and-tricks/",
+    "Image1": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rundeck.com%2Fjenkins&psig=AOvVaw3qSpVvHuCdG4TWcD9via2Q&ust=1615569758065000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJDyg7_gqO8CFQAAAAAdAAAAABAD"
 
+	},
 
 	{
 	"Title" : "Kotlin", 
@@ -286,7 +350,137 @@
 	 
 	},
 
+	{
+		"Title" : "Kubernetes",
+		"Tag": "container-orchestration system",
+		"Documentation" : "https://kubernetes.io/docs/home/",
+		"YT1 " : "https://www.youtube.com/watch?v=X48VuDVv0do",
+		"YT2 " : "https://www.youtube.com/watch?v=F-p_7XaEC84",
+		"YT3 " : "https://www.youtube.com/watch?v=QJ4fODH6DXI",
+		"YT4 " : "https://www.youtube.com/watch?v=R-3dfURb2hA",
+		"Website1": "https://www.redhat.com/en/topics/containers/what-is-kubernetes",
+		"Website2": "https://cloud.google.com/learn/what-is-kubernetes",
+		"Website3": "https://kubernetes.io/docs/tutorials/kubernetes-basics/",
+		"Website4": "https://www.tutorialspoint.com/kubernetes/index.htm",
+		"Dedicated GH page1" : "https://github.com/kubernetes/kubernetes",
+		"Course1" : "https://www.coursera.org/specializations/architecting-google-kubernetes-engine",
+		"Course2" : "https://www.coursera.org/learn/ibm-containers-docker-kubernetes-openshift",
+		"Course3" : "https://www.coursera.org/learn/containerized-apps-on-aws",
+		"Course4" : "https://www.coursera.org/projects/container-orchestration-kubernetes",
+		"Tips1" : "https://kubernetes.io/blog/2018/07/18/11-ways-not-to-get-hacked/",
+		"Tips2" : "https://blog.neuvector.com/article/hack-kubernetes-container"
+	
+		} ,
+		{
+			"Title" : "Matplotlib",
+				"Tag": "Python Library",
+				"Documentation" : "https://matplotlib.org/stable/contents.html",
+				"YT1 " : "https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_",
+				"YT2 " : "https://www.youtube.com/watch?v=VFsRLjSc8GA",
+				"YT3 " : "https://www.youtube.com/watch?v=3Xc3CA655Y4" ,
+				"YT4 " : "https://www.youtube.com/playlist?list=PLQVvvaa0QuDfefDfXb9Yf0la1fPDKluPF",
+				"YT5 " :  "https://www.youtube.com/playlist?list=PL-osiE80TeTvipOqomVEeZ1HRrcEvtZB_",
+				"Website1" : "https://www.w3schools.com/python/matplotlib_pyaplot.asp",
+				"Website2" : "https://www.tutorialspoint.com/matplotlib/index.htm",
+				"Website3" : "https://www.geeksforgeeks.org/python-introduction-matplotlib/",
+				"Website4" : "https://realpython.com/python-matplotlib-guide/",
+				"Dedicated GH page1" : "https://github.com/matplotlib/matplotlib",
+				"Dedicated GH page2" : "https://github.com/mwaskom/seaborn",
+				"Dedicated GH page3" : "https://github.com/rougier/matplotlib-cheatsheet",
+				"Dedicated GH page4" : "https://github.com/garrettj403/SciencePlots",
+				"Course1" : "https://hackr.io/blog/best-python-courses",
+				"Course2" : "https://www.coursera.org/projects/plots-creation-using-matplotlib-python",
+				"Course3" : "https://www.freecodecamp.org/news/matplotlib-course-learn-python-data-visualization/",
+				"Tips1" : "https://www.analyticsvidhya.com/blog/2020/05/10-matplotlib-tricks-data-visualization-python/",
+				"Tips2" : "https://towardsdatascience.com/simple-ways-to-improve-your-matplotlib-b64eebccfd5",
+				"Tips3" : "https://pythonmatplotlibtips.blogspot.com/",
+				"Tips4" : "https://s3.amazonaws.com/assets.datacamp.com/blog_assets/Python_Matplotlib_Cheat_Sheet.pdf"
+		
+		
+				},
 
+				{	
+					"Title" : "Maya",
+					"Tag": "3D modeling and animation program",
+					"Documentation" : "https://knowledge.autodesk.com/support/maya/getting-started/caas/simplecontent/content/maya-documentation.html",
+					"YT1 " : "https://www.youtube.com/user/Autodesk",
+					"YT2 " : "https://www.youtube.com/user/MayaHowTos",
+					"YT3 " : "https://www.youtube.com/playlist?list=PLD8E5717592CF5C26",
+					"YT4 " : "https://www.youtube.com/playlist?list=PLsPHRLf6UN4k0_AfrTzLmK4iDV9J97-qR",
+					"YT5" : "https://www.youtube.com/c/InspirationTuts/featured",
+					"YT6" : "https://www.youtube.com/playlist?list=PL_wyEvNVo1UQbNt9tKmg4AvhwpYKcQnML",
+					"YT7 " : "https://www.youtube.com/playlist?list=PL80CF6C06B5EA7539",
+					"YT8" : "https://www.youtube.com/playlist?list=PLhzdYQZ3iGsJqYhL-VSJjmWaL9pU0K5Im",
+					"Website1": "https://www.bgsu.edu/content/dam/BGSU/libraries/documents/collab-lab/Maya-Tutorial.pdf",
+					"Website2": "https://designmodo.com/maya-tutorials/",
+					"Dedicated GH page1" : "https://github.com/ADN-DevTech/Maya-Training-Material",
+					"Dedicated GH page2" : "https://github.com/Autodesk/maya-usd",
+					"Course1" : "https://www.udemy.com/course/autodesk-maya-3d-animation-course/",
+					"Course2" : "https://www.udemy.com/course/learn-maya-for-beginners/",
+					"Course3" : "https://www.udemy.com/course/complete-maya-fluids-bootcamp/",
+					"Course4" : "https://www.udemy.com/course/maya-for-beginners-complete-3d-animation-masterclass/",
+					"Tips1" : "https://www.creativebloq.com/advice/20-tips-to-master-maya",
+					"Tips2" : "https://area.autodesk.com/tutorials/15-must-know-tips-tricks-in-maya-2020/",
+					"Tips3" : "https://fullrotation.com/maya-tips-for-beginners/",
+					"Tips4" : "https://academy.archistar.ai/the-top-18-tips-for-getting-more-from-maya",
+					"Image1":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPejuFWVvHT5j0iMatE8cdIcXFbKlJHLSEZg&usqp=CAU" 
+					
+					},
+		
+		
+			{
+				"Title" : "NLTK(Natural Language ToolKit",
+				"Tag": "Python Library",
+				"Documentation" : "https://www.nltk.org/ ",
+				"YT1 " : "https://www.youtube.com/playlist?list=PLQVvvaa0QuDf2JswnfiGkliBInZnIC4HL ",
+				"YT2 " : "https://www.youtube.com/watch?v=WYge0KZBhe0 ",
+				"YT3 " : "https://www.youtube.com/watch?v=X2vAabgKiuM" ,
+				"YT4 " : "https://www.youtube.com/watch?v=U8m5ug9Q54M ",
+				"YT5 " :  "https://www.youtube.com/watch?v=bgFKoaKX3ec",
+				"YT6 " : "https://www.youtube.com/watch?v=YB7XXDXIusg",
+				"Website1": "https://www.guru99.com/nltk-tutorial.html",
+				"Website2" : "https://www.nltk.org/book/ch06.html",
+				"Website3":"https://www.nltk.org/install.html",
+				"Website4" : "https://data-flair.training/blogs/nltk-python-tutorial/",
+				"Dedicated GH page1" : "https://github.com/nltk/nltk",
+				"Dedicated GH page2" : "https://github.com/vinta/awesome-python#natural-language-processing",
+				"Dedicated GH page3" : "https://github.com/hb20007/hands-on-nltk-tutorial",
+				"Dedicated GH page4" : "https://github.com/csurfer/rake-nltk/commits/master",
+				"Course1" : "https://www.udemy.com/course/natural-language-processing-nlp-for-beginners-using-nltk-in-python/",
+				"Course2" : "https://www.datacamp.com/courses/natural-language-processing-fundamentals-in-python",
+				"Course3" : "https://www.itexperttraining.com/core/course/nltk-with-python-3-for-natural-language-processing/",
+				"Course4" : "https://www.udemy.com/course/complete-natural-language-processing-nlp-with-spacy-nltk/",
+				"Tips1" : "https://awesomeopensource.com/projects/nltk",
+				"Tips2" : "https://opensource.com/article/20/8/nlp-python-nltk",
+				"Tips3" : "https://medium.com/@ritidass29/the-essential-guide-to-how-nlp-works-4d3bb23faf76",
+				"Tips4" : "https://www.kaggle.com/learn-forum/171334",
+				"Tip5" : "https://cheatography.com/murenei/cheat-sheets/natural-language-processing-with-python-and-nltk/"
+			
+				},
+
+	{	"Title" : "Puppet",
+		"Tag": "IT automation",
+		"Documentation" : "https://puppet.com/docs/puppet/5.5/puppet_index.html",
+		"YT1 " : "https://www.youtube.com/watch?v=PL_J5Gj3GAQ",
+		"YT2 " :"https://www.youtube.com/watch?v=QFcqvBk1gNA",
+		"YT3 " :"https://www.youtube.com/watch?v=kHD4KQKKP5Y",
+		"YT4 " :"https://www.youtube.com/watch?v=PL_J5Gj3GAQ",
+		"Website1": "https://www.edureka.co/blog/what-is-puppet/",
+		"Website2": "https://www.guru99.com/puppet-tutorial.html",
+		"Website3": "https://www.tutorialspoint.com/puppet/index.htm",
+		"Dedicated GH page1" : "https://github.com/puppetlabs/puppet",
+		"Dedicated GH page2" : "https://github.com/puppeteer/puppeteer",
+		"Dedicated GH page3" : "https://github.com/puppetlabs",
+		"Course1" : "https://puppet.com/learning-training/",
+		"Course2" : "https://www.udemy.com/course/learning-puppet/",
+		"Course3" : "https://www.udemy.com/course/learn-puppet/",
+		"Course4" : "https://www.udemy.com/course/learning-puppet/",
+		"Tips1" : "https://puppet.com/blog/category/tips-how-to/",
+		"Tips2" : "https://ospassist.puppet.com/hc/en-us/articles/360043112494-Puppet-tips-and-tricks",
+		"Tips3" : "https://blog.kumina.nl/tag/puppet-tips-and-tricks/",
+		"Image1":"https://www.replicated.com/wp-content/uploads/2020/10/Puppet-Replicated-Diagram.jpg" 
+		
+		},
 
 	{
 	"Title" : "Python",
